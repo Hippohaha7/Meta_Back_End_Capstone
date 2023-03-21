@@ -1,6 +1,8 @@
 # Meta-Back-end-Capstone
 For Coursera Meat backend capstone project
-
+<font color="RED">
+PLEASE NOTE TAHT FOR THIS PROJECT I DIDN'T USE THE SAME APP NAME AS REQUIRED IN THE PROJECT, THE APP NAME "LITTLELEMONAPI" IS USED INSTEAD OF "reastaurant" WHICH IS ALSO A TYPO!
+</font>
 
 Step One:
 Activate the pipenv please follow the below commands,
